@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1543545878 source:/home/joao/Documentos/APA/binary_search.cpp
+	"binary_search.h"
+	<iostream>
+	"vetor.h"
+
+1543545859 /home/joao/Documentos/APA/binary_search.h
+
+1543630628 source:/home/joao/Documentos/APA/main.cpp
+	<iostream>
+	<time.h>
+	"selection_sort.h"
+	"merge_sort.h"
+	"vetor.h"
+	"fibonacci.h"
+	"fractional_knapsack.h"
+	<fstream>
+	<stdlib.h>
+	<bits/stdc++.h>
+
+1543604665 /home/joao/Documentos/APA/merge_sort.h
+
+1543528558 /home/joao/Documentos/APA/vetor.h
+
+1543604508 source:/home/joao/Documentos/APA/merge_sort.cpp
+	<iostream>
+	"vetor.h"
+
+1543604552 source:/home/joao/Documentos/APA/vetor.cpp
+	<iostream>
+	"vetor.h"
+
+1543603963 source:/home/joao/Documentos/APA/fibonacci.cpp
+	"fibonacci.h"
+	<iostream>
+
+1543517353 /home/joao/Documentos/APA/fibonacci.h
+
+1543604031 source:/home/joao/Documentos/APA/fractional_knapsack.cpp
+	<iostream>
+	<algorithm>
+
+1543604589 /home/joao/Documentos/APA/fractional_knapsack.h
+
+1543546968 /home/joao/Documentos/APA/selection_sort.h
+
+1543546880 source:/home/joao/Documentos/APA/selection_sort.cpp
+
